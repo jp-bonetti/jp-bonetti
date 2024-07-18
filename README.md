@@ -1,8 +1,8 @@
 # Olá, seja bem vindo ao meu perfil do GitHub 🚀
 
-👨‍💻 Me chamo <a href="https://www.linkedin.com/in/joao-paulo-sigieski-bonetti/">João Paulo<a/>, possuo 19 anos e curso Sistemas de Informação. 
+👨‍💻 Me chamo <a href="https://www.linkedin.com/in/joao-paulo-sigieski-bonetti/">João Paulo<a/>, possuo 20 anos e curso Sistemas de Informação. 
 
-🛠️ Atualmente atuo como Analista de Qualidade na empresa Getnet.    
+🛠️ Atualmente atuo como Analista de Qualidade na empresa DBC Company
 🔍 Possuo experiência em testes manuais e testes automatizados de API, com Postman e RestAssured.  
 💻 Além de desenvolvimento back-end, utilizando Java e Spring.
 
