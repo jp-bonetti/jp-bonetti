@@ -2,7 +2,7 @@
 
 👨‍💻 Me chamo <a href="https://www.linkedin.com/in/joao-paulo-sigieski-bonetti/">João Paulo<a/>, possuo 20 anos e curso Engenharia de Software. 
 
-🛠️ Atualmente atuo como Analista de Qualidade na empresa DBC Company
+🛠️ Atualmente atuo como Analista de Qualidade na empresa DBC Company.  
 🔍 Possuo experiência em testes manuais e testes automatizados de API, com Postman e RestAssured.  
 💻 Além de desenvolvimento back-end, utilizando Java e Spring.
 
